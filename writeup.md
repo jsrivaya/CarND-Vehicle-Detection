@@ -227,7 +227,7 @@ Here's an example result showing the heatmap from a series of frames of video, t
 
 ---
 
-###Discussion
+### Discussion
 Here I'll talk about the approach I took, what techniques I used, what worked and why, where the pipeline might fail and how I might improve it if I were going to pursue this project further. 
 
 One problem that I found is that I believe that the number of training images might not be enough so I augmented it. I also went into the web and downloaded the AI Stanford Image Database (ai.stanford.edu/~jkrause/cars/car_dataset.html) for cars as well as the University of Illinois CS department cars database (https://cogcomp.cs.illinois.edu/Data/Car/)  and GTI database (https://www.gti.ssr.upm.es/data/Vehicle_database.html). The problem is that I couldn't find any `NO CAR` images database. There might be something out there, but I couldn't find it. I created about 150 images myself but it is pain process to do.
