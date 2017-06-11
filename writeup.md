@@ -12,12 +12,11 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 [image1]: ./output_images/HOG_car_nocar.png
-[image2]: ./output_images/YUV_test_images.jpg
-[image3]: ./output_images/YUV_windows_heatmap.jpg
-[image4]: ./output_images/YUV_processed.jpg
-[image5]: ./examples/bboxes_and_heat.png
-[image6]: ./examples/labels_map.png
-[image7]: ./examples/output_bboxes.png
+[image2]: ./output_images/YUV_test_images.png
+[image3]: ./output_images/YUV_windows_heatmap.png
+[image4]: ./output_images/YUV_threshold.png
+[image5]: ./output_images/YUV_processed.png
+[image6]: ./examples/YUV_processed.png
 [video1]: ./project_video_processed.mp4
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/513/view) Points
