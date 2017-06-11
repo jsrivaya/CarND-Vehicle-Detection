@@ -16,7 +16,8 @@ The goals / steps of this project are the following:
 [image3]: ./output_images/YUV_windows_heatmap.png
 [image4]: ./output_images/YUV_threshold.png
 [image5]: ./output_images/YUV_processed.png
-[image6]: ./examples/YUV_processed.png
+[image6]: ./output_images/heatmap_1_2.png
+[image7]: ./output_images/heatmap_3_6.png
 [video1]: ./project_video_processed.mp4
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/513/view) Points
@@ -196,7 +197,7 @@ Here are some example images of the window and heatmap:
 
 And here the final frame result:
 
-![alt text][image4]
+![alt text][image5]
 
 ---
 
@@ -214,13 +215,14 @@ Here's an example result showing the heatmap from a series of frames of video, t
 
 ### Here are six frames and their corresponding heatmaps:
 
-![alt text][image5]
+![alt text][image6]
+![alt text][image7]
 
 ### Here is the output of `scipy.ndimage.measurements.label()` on the integrated heatmap from all six frames:
-![alt text][image6]
+![alt text][image4]
 
 ### Here the resulting bounding boxes are drawn onto the last frame in the series:
-![alt text][image7]
+![alt text][image5]
 
 
 
